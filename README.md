@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Robert Mwangi
+- 👋 Hi, I’m Robert Mwangi.
+- I'm a Computer Science Student and learning JavaScript.
+- I am  going through the Odin Project to improve my programming skills and portfolio.
 - 👀 I’m interested in scripting to solve business challenges and gain experience to improve my skills.
 - 🌱 I’m currently learning ServiceNow Administration and Scripting.
 - 📫 You can reach me at robertmwangi732@gmail.com or at 623-219-7009.
