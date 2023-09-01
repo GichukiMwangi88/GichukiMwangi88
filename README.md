@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Robert Mwangi.
-- I'm a Computer Science Student and learning JavaScript.
-- I am  going through the Odin Project to improve my programming skills and portfolio.
-- 👀 I’m interested in scripting to solve business challenges and gain experience to improve my skills.
-- 🌱 I’m currently learning ServiceNow Administration and Scripting.
+- 👋🏿 Hi, I’m Robert Mwangi.
+- I'm an Army Veteran studying Software Engineering at Grand Canyon University.
+- I am  going through the Odin Project to improve my programming and problem-solving skills and portfolio.
+- 👀 I’m interested in scripting and creating programs to solve business challenges and gain experience to improve my skills.
+- 🌱 I participated in a NextGen Program with ServiceNow whereby I earned ServiceNow System Administrator certification upon program completion.
 - 📫 You can reach me at robertmwangi732@gmail.com or at 623-219-7009.
 
 <!---
