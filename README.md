@@ -3,6 +3,7 @@
 - I am  going through the Odin Project to improve my programming and problem-solving skills and portfolio.
 - 👀 I’m interested in scripting and creating programs that solve business challenges and gain experience to improve my skills.
 - 🌱 I participated in a NextGen Program with ServiceNow whereby I earned ServiceNow System Administrator certification upon program completion.
+- Currently working towards earning ServiceNow Certified Application Developer this winter.
 - 📫 You can reach me at robertmwangi732@gmail.com or at 623-219-7009.
 
 <!---
