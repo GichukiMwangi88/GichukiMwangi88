@@ -1,5 +1,5 @@
 - 👋🏿 Hi, I’m Robert Mwangi
-- 🎓 Sophomore Software Engineering student at Grand Canyon University
+- 🎓 Software Engineering student at Grand Canyon University
 - 💻 Army Veteran dedicated to acquiring skills through coursework and personal projects
 - 🚀 Passionate about building software solutions to solve real-world business challenges
 - 📚 Continuously learning and growing—always eager to contribute to meaningful projects
